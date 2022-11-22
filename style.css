@@ -9,6 +9,7 @@
     place-items: center;
     background-image:url('Green\ Marble\ Happy\ Life\ Desktop\ Wallpaper\ \(2\).png');
     background-size: cover;
+    background-repeat:no-repeat scroll;
   }
   
   .container {
