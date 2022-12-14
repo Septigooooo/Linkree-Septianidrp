@@ -16,7 +16,7 @@ const buttons = [
     },
     {
       name: "Github",
-      link: "https://github.com/Septigooooo",
+      link: "https://github.com/Septianidwirp",
       class: "github",
     },
     {
